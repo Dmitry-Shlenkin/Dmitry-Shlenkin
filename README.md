@@ -1,16 +1,22 @@
 ### Доброго времени суток 👋
+Вы попали на Git Дмитрия. Данная страница содержит в себе небольшие развлекательные проекты. Прошу, при просмотре, не кринжевать, все когда-то начинали с чего-то.
 
+
+ ### :man_technologist: Контактная информация :
 <div id="badges" align ="center">
   <a href="https://vk.com/netrozmouadress">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/480px-VK_Compact_Logo_%282021-present%29.svg.png" alt="Vk" width="30px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/480px-VK_Compact_Logo_%282021-present%29.svg.png" alt="Vk" width="18px"/>
     <span>Мой ВК</span>
   </a>
   <a href="@Dya_dya_Grisha">
     <p></p>
-    <img src="https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo.png" alt="Телеграм" width="30px"/>
+    <img src="https://w7.pngwing.com/pngs/636/338/png-transparent-telegram-hd-logo.png" alt="Телеграм" width="18px"/>
     <span>@Dya_dya_Grisha</span> 
   </a>
 </div>
+
+
+ ###  :hammer_and_wrench: Стэк технологий :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="40" height="40"/>
