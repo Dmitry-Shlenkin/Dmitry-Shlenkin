@@ -2,7 +2,7 @@
 Вы попали на Git Дмитрия. Данная страница содержит в себе небольшие развлекательные проекты. Прошу, при просмотре, не кринжевать, все когда-то начинали с чего-то.
 
 
- ### :man_technologist: Контактная информация :
+ ###  Контактная информация :
 <div id="badges" align ="center">
   <a href="https://vk.com/netrozmouadress">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/480px-VK_Compact_Logo_%282021-present%29.svg.png" alt="Vk" width="18px"/>
@@ -16,7 +16,7 @@
 </div>
 
 
- ###  :hammer_and_wrench: Стэк технологий :
+ ### Стэк технологий :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="40" height="40"/>
